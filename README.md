@@ -41,13 +41,7 @@
 ###
 
 <br clear="both">
-
 <h6 align="left">You are 👇🏼</h6>
-
-###
-
-<br clear="both">
-
 <img align="left" src="https://profile-counter.glitch.me/ranasinghe-nicolo/count.svg?"  />
 
 ###
