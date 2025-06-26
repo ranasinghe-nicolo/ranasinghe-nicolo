@@ -3,7 +3,7 @@ name: Generate snake animation
 on:
   schedule:
     # Runs every 5 minutes
-    - cron: "*/1 * * * *"
+    - cron: "*/5 * * * *"
   
   workflow_dispatch:
   
@@ -16,7 +16,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 5
 
     steps:
       - name: generate snake.svg
